@@ -12,8 +12,9 @@ The Campus Lost and Found Management System is a Java-based desktop application 
 6. Mark an item as **Recovered** when it is returned.
 7. Delete reports when they are no longer needed.
 8. Visit **Statistics** to view an overview of lost and found items.
+<img width="1189" height="739" alt="Screenshot 2026-11-11 170535" src="https://github.com/user-attachments/assets/20052952-9590-447d-ae21-302c41cce465" />
 
-<img width="1435" height="988" alt="Screenshot 2026-11-11 171514" src="https://github.com/user-attachments/assets/c4bd0c50-aafb-4609-b190-c429db27f59a" />
+
 Conclusion
 
 This application provides a simple solution for managing campus lost and found records. It demonstrates the practical use of Java, Swing GUI components, object-oriented programming, and file handling through Java Serialization.
